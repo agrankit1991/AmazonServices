@@ -11,6 +11,6 @@ public class Home {
 
     @GET
     public String getMsg() {
-        return "Hello World !! - Jersey 2.28";
+        return "Hello World !! - Jersey";
     }
 }
